@@ -1,0 +1,39 @@
+[submodule "aws-hotdeal"]
+	path = aws-hotdeal
+	url = git@github.com:leios-aws/aws-hotdeal
+[submodule "aws-api-fitness-weight"]
+	path = aws-api-fitness-weight
+	url = git@github.com:leios-aws/aws-api-fitness-weight
+[submodule "aws-telegram"]
+	path = aws-telegram
+	url = git@github.com:leios-aws/aws-telegram
+[submodule "aws-bbasak-attend"]
+	path = aws-bbasak-attend
+	url = git@github.com:leios-aws/aws-bbasak-attend
+[submodule "aws-etoland-attend"]
+	path = aws-etoland-attend
+	url = git@github.com:leios-aws/aws-etoland-attend
+[submodule "aws-tmap"]
+	path = aws-tmap
+	url = git@github.com:leios-aws/aws-tmap
+[submodule "aws-wemakeprice-coupon"]
+	path = aws-wemakeprice-coupon
+	url = git@github.com:leios-aws/aws-wemakeprice-coupon
+[submodule "aws-wemakeprice-giftcard"]
+	path = aws-wemakeprice-giftcard
+	url = git@github.com:leios-aws/aws-wemakeprice-giftcard
+[submodule "aws-whooing-attend"]
+	path = aws-whooing-attend
+	url = git@github.com:leios-aws/aws-whooing-attend
+[submodule "aws-api-giftcard-lowprice"]
+	path = aws-api-giftcard-lowprice
+	url = git@github.com:leios-aws/aws-api-giftcard-lowprice
+[submodule "aws-api-front"]
+	path = aws-api-front
+	url = git@github.com:leios-aws/aws-api-front
+[submodule "aws-lambda-template"]
+	path = aws-lambda-template
+	url = git@github.com:leios-aws/aws-lambda-template
+[submodule "aws-gsheet-example"]
+	path = aws-gsheet-example
+	url = git@github.com:leios-aws/aws-gsheet-example
