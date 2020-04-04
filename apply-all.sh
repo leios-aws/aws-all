@@ -38,4 +38,3 @@ do
 
         cd ..
 done
-leios@14ZD980-GX50K:~/work
