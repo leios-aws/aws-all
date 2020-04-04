@@ -1,0 +1,4 @@
+sudo apt-get install python-pip jq
+pip install --upgrade pip
+pip install awslogs
+pip install awscli
